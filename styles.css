@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h1 {
+  color: rgb(0, 154, 255);
+}
+
+h2 {
+  color: rgb(0, 154, 255);
+}
+p {
+  color:rgb(0, 154, 255);
+}
+body {
+  background-color: linen;
+}
+.top-right {
+  text-align: right;
+}
+.top-left {
+  text-align: left;
+}
+img {
+  border-radius: 50%;
+}
+
